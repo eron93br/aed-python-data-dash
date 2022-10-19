@@ -10,6 +10,10 @@ Some useful references obtained from GitHub, Medium etc
 
 - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
+**Dashboards**
+
+- [Dashboard Design Principles & Best Practices To Enhance Your Data Analysis](https://www.datapine.com/blog/dashboard-design-principles-and-best-practices/)
+
 **Storytelling with data**
 
 - [Plots from the book "Storytelling with data" implementation using Python and matplotlib](https://github.com/empathy87/storytelling-with-data)
