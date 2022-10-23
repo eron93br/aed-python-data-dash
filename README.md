@@ -1,6 +1,9 @@
 # aed-python-data-dash
 Codigos referentes a disciplina Storytelling com Dados e Design de Dashboards - CESAR School 2022
 
+## Configuração do Ambiente para o Dash
+
+tbd
 
 ## References
 
