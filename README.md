@@ -8,6 +8,8 @@ Some useful references obtained from GitHub, Medium etc
 
 **Python**
 
+- [Data Visualization Python: exemplos com Plotly e Seaborn](https://github.com/eron93br/Data-Visualization-Python)
+
 - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
 **Dashboards**
