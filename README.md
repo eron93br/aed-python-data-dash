@@ -21,6 +21,8 @@ Some useful references obtained from GitHub, Medium etc
 
 **Storytelling with data**
 
+- [Storytelling With Data - Guia dos graficos](https://www.storytellingwithdata.com/chart-guide)
+
 - [Plots from the book "Storytelling with data" implementation using Python and matplotlib](https://github.com/empathy87/storytelling-with-data)
 
 - [Notes from the book "Storytelling with data"](https://gist.github.com/AdamMescher/4934fee9e8f7dda605f551f60a03d4bd#file-01-the-importance-of-context-md)
