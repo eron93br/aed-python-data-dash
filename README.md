@@ -1,11 +1,28 @@
-# aed-python-data-dash
+# Storytelling com Dados e Desenvolvimento de Dashboards
+
+
 Codigos referentes a disciplina Storytelling com Dados e Design de Dashboards - CESAR School 2022
 
-## Configuração do Ambiente para o Dash
+A organização deste repositório é a seguir: 
 
-tbd
+```
+├── dash
+└── README.md
+```
 
-## References
+Onde
+
+## Dash 
+
+Contém códigos relacionado ao desenvolvimento de Dashboards baseado na biblioteca Dash by Plotly. A configuração do ambinente com Dash é
+
+```
+python3 -m venv venv-dash
+source venv-dash/bin/activate
+pip install -r requirements.txt
+```
+
+# References
 
 Some useful references obtained from GitHub, Medium etc
 
