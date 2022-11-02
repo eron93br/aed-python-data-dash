@@ -48,4 +48,5 @@ Some useful references obtained from GitHub, Medium etc
 
 **Dash** 
 
+- [Jupyter Dash Oficial Repo](https://github.com/plotly/jupyter-dash)
 - [Estrutura de Aplicacao](https://dash.plotly.com/dash-enterprise/application-structure)
