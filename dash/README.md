@@ -1,6 +1,11 @@
 # Dash
 
-tbd.
+Esta página apresenta alguns projetos de Dashboard com o `Dash`. Para usar, favor criar uma virtualenv com o requirements.txt de cada pasta. 
+
+## Projetos
+
+TBD
+
 
 ## Estruta de Projeto com Dash
 
