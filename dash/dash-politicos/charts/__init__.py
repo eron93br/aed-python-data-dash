@@ -1,0 +1,1 @@
+from charts.bar_char import Bar_char

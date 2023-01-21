@@ -1,0 +1,9 @@
+FROM python:3.8
+
+RUN pip install dash
+
+RUN pip install pandas
+RUN pip install geopandas
+RUN pip install dash-bootstrap-components
+WORKDIR /dash_app
+COPY . /dash_app

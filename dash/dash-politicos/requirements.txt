@@ -1,0 +1,4 @@
+dash
+pandas
+geopandas
+dash-bootstrap-components
