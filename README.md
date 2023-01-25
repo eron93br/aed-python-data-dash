@@ -10,8 +10,6 @@ A organização deste repositório é a seguir:
 └── README.md
 ```
 
-Onde
-
 ## Dash 
 
 Contém códigos relacionado ao desenvolvimento de Dashboards baseado na biblioteca Dash by Plotly. A configuração do ambinente com Dash é
