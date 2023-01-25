@@ -28,6 +28,8 @@ Some useful references obtained from GitHub, Medium etc
 
 **Python**
 
+- [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
+
 - [Data Visualization Python: exemplos com Plotly e Seaborn](https://github.com/eron93br/Data-Visualization-Python)
 
 - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
