@@ -26,6 +26,8 @@ pip install -r requirements.txt
 
 Some useful references obtained from GitHub, Medium etc
 
+![img](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/_images/tools.png)
+
 **Python**
 
 - [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
