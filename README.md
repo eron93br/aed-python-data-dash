@@ -52,3 +52,7 @@ Some useful references obtained from GitHub, Medium etc
 
 - [Jupyter Dash Oficial Repo](https://github.com/plotly/jupyter-dash)
 - [Estrutura de Aplicacao](https://dash.plotly.com/dash-enterprise/application-structure)
+
+**Streamlit**
+
+- [Getting Started with Streamlit for Data Science](https://github.com/PacktPublishing/Getting-started-with-Streamlit-for-Data-Science)
