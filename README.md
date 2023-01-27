@@ -52,6 +52,7 @@ Some useful references obtained from GitHub, Medium etc
 
 - [Jupyter Dash Oficial Repo](https://github.com/plotly/jupyter-dash)
 - [Estrutura de Aplicacao](https://dash.plotly.com/dash-enterprise/application-structure)
+- [Interactive Dashboards and Data Apps with Plotly and Dash](https://github.com/PacktPublishing/Interactive-Dashboards-and-Data-Apps-with-Plotly-and-Dash)
 
 **Streamlit**
 
