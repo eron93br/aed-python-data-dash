@@ -56,4 +56,5 @@ Some useful references obtained from GitHub, Medium etc
 
 **Streamlit**
 
+- [Streamlit templates and awesome projects](https://github.com/MarcSkovMadsen/awesome-streamlit)
 - [Getting Started with Streamlit for Data Science](https://github.com/PacktPublishing/Getting-started-with-Streamlit-for-Data-Science)
