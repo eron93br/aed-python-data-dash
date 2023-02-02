@@ -10,8 +10,6 @@ A organização deste repositório é a seguir:
 └── README.md
 ```
 
-Onde
-
 ## Dash 
 
 Contém códigos relacionado ao desenvolvimento de Dashboards baseado na biblioteca Dash by Plotly. A configuração do ambinente com Dash é
@@ -26,7 +24,11 @@ pip install -r requirements.txt
 
 Some useful references obtained from GitHub, Medium etc
 
+![img](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/_images/tools.png)
+
 **Python**
+
+- [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 
 - [Data Visualization Python: exemplos com Plotly e Seaborn](https://github.com/eron93br/Data-Visualization-Python)
 
@@ -50,3 +52,9 @@ Some useful references obtained from GitHub, Medium etc
 
 - [Jupyter Dash Oficial Repo](https://github.com/plotly/jupyter-dash)
 - [Estrutura de Aplicacao](https://dash.plotly.com/dash-enterprise/application-structure)
+- [Interactive Dashboards and Data Apps with Plotly and Dash](https://github.com/PacktPublishing/Interactive-Dashboards-and-Data-Apps-with-Plotly-and-Dash)
+
+**Streamlit**
+
+- [Streamlit templates and awesome projects](https://github.com/MarcSkovMadsen/awesome-streamlit)
+- [Getting Started with Streamlit for Data Science](https://github.com/PacktPublishing/Getting-started-with-Streamlit-for-Data-Science)
