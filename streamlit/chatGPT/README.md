@@ -12,3 +12,7 @@
  pip3 install -r requirements.txt 
  streamlit run chat_GPT.py 
  ```
+ 
+ ## Dicas de Uso do chatGPT
+ 
+ Confira este [artigo](https://www.linkedin.com/feed/update/urn:li:activity:7021408474764914688/)
