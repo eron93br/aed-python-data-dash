@@ -7,7 +7,8 @@ A organização deste repositório é a seguir:
 
 ```
 ├── dash
-└── README.md
+├── README.md
+└── streamlit
 ```
 
 ## Dash 
