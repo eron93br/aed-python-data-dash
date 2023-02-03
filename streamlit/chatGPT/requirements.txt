@@ -1,0 +1,11 @@
+pandas==1.0.5
+streamlit==1.11.1
+plotly==4.14.3
+mxnet-mkl==1.6.0
+numpy==1.23.1
+matplotlib==3.6.3
+seaborn==0.12.2
+scikit-learn==1.2.1
+Pillow==9.4.0
+wordcloud==1.8.2.2
+
