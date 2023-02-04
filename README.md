@@ -58,6 +58,8 @@ Some useful references obtained from GitHub, Medium etc
 
 - [Notes from the book "Storytelling with data"](https://gist.github.com/AdamMescher/4934fee9e8f7dda605f551f60a03d4bd#file-01-the-importance-of-context-md)
 
+- [Boa Descrição de Conjuntos de Dados](https://github.com/infoslack/eda-wine-review/blob/main/eda-wine-reviews.ipynb)
+
 **Dash** 
 
 - [Jupyter Dash Oficial Repo](https://github.com/plotly/jupyter-dash)
