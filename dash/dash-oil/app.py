@@ -20,7 +20,8 @@ PATH = pathlib.Path(__file__).parent
 DATA_PATH = PATH.joinpath("data").resolve()
 
 app = dash.Dash(
-    __name__, meta_tags=[{"name": "viewport", "content": "width=device-width"}],
+    __name__,
+    meta_tags=[{"name": "viewport", "content": "width=device-width"}],
 )
 app.title = "Oil & Gas Wells"
 server = app.server
@@ -277,7 +278,7 @@ def human_format(num):
         return "0"
 
     magnitude = int(math.log(num, 1000))
-    mantissa = str(int(num / (1000 ** magnitude)))
+    mantissa = str(int(num / (1000**magnitude)))
     return mantissa + ["", "K", "M", "G", "T", "P"][magnitude]
 
 
