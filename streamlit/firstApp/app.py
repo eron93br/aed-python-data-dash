@@ -47,6 +47,7 @@ header = st.container()
 dataset = st.container()
 features = st.container()
 model_training = st.container()
+last_t = st.container()
 
 back_img = Image.open("data/back_churn.png")
 
@@ -116,3 +117,18 @@ with model_training:
     )
     st.pyplot(fig2)
     st.pyplot(fig3)
+
+with last_t:
+    col1, col2, col3 = st.columns(3)
+
+    with col1:
+        st.header("A cat")
+        st.image("https://static.streamlit.io/examples/cat.jpg")
+
+    with col2:
+        st.header("A dog")
+        st.image("https://static.streamlit.io/examples/dog.jpg")
+
+    with col3:
+        st.header("An owl")
+        st.image("https://static.streamlit.io/examples/owl.jpg")

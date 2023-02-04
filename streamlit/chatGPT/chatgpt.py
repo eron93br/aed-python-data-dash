@@ -3,7 +3,7 @@ import requests
 
 
 def call_chatgpt_api(quest):
-    auth_token = "INSIRA-SUA-CHAVE-AQUI"
+    auth_token = "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"
     header = {
         "Authorization": "Bearer " + auth_token
     }
