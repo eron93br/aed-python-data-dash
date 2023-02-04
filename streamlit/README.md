@@ -1,3 +1,13 @@
 # Streamlit dashboards
 
-todo..
+## chatGPT
+
+Dashboard com chat GPT, possui diferentes páginas
+
+## examples
+
+Dashboard com alguns tipos de geração de pokemons, como fizemos em sala no dia 03/04/2023
+
+## firstApp
+
+Dashboard básico exemplo
