@@ -1,13 +1,14 @@
 # Storytelling com Dados e Desenvolvimento de Dashboards
 
 
-Codigos referentes a disciplina Storytelling com Dados e Design de Dashboards - CESAR School 2022
+Codigos referentes a disciplina Storytelling com Dados e Design de Dashboards - CESAR School 2023
 
 A organização deste repositório é a seguir: 
 
 ```
 ├── dash
-└── README.md
+├── README.md
+└── streamlit
 ```
 
 ## Dash 
@@ -19,6 +20,15 @@ python3 -m venv venv-dash
 source venv-dash/bin/activate
 pip install -r requirements.txt
 ```
+
+## Streamlit
+
+Contém códigos relacionado ao desenvolvimento de Dashboards baseado no Streamlit. Lembre de rodar as aplicações (**app.py**) com
+
+```
+streamlit run app.py
+```
+
 
 # References
 
