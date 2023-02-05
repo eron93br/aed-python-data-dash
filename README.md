@@ -29,6 +29,7 @@ Contém códigos relacionado ao desenvolvimento de Dashboards baseado no Streaml
 streamlit run app.py
 ```
 
+Você pode rodar os códigos do Streamlit criando virtualenvs ou seguindo estes [passos](https://github.com/streamlit/streamlit/wiki/Installing-in-a-virtual-environment).
 
 # References
 
