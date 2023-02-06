@@ -11,3 +11,9 @@ Dashboard com alguns tipos de geração de pokemons, como fizemos em sala no dia
 ## firstApp
 
 Dashboard básico exemplo
+
+# Links
+
+- [Cheat Sheet - comandos](https://docs.streamlit.io/library/cheatsheet)
+- [30 days of Streamlit](https://30days.streamlit.app/)
+
