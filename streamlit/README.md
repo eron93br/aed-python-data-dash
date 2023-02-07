@@ -12,6 +12,11 @@ Dashboard com alguns tipos de geração de pokemons, como fizemos em sala no dia
 
 Dashboard básico exemplo
 
+# Projetos das aulas
+
+- [House Sales - Dashboard (2023.1)](https://github.com/IvanLopesGit/Streamlit_DATA_VIS)
+
+
 # Links
 
 - [Cheat Sheet - comandos](https://docs.streamlit.io/library/cheatsheet)
