@@ -1,8 +1,8 @@
 # HTML 101
 
-Curso introdutório rápido sobre HTML para o desenvolvimento de Dashboards. 
 
-**O que é?**
+
+Curso introdutório rápido sobre HTML para o desenvolvimento de Dashboards. 
 
 O HTML (Hypertext Markup Language) é a linguagem padrão usada para criar e estruturar o conteúdo de páginas web. Ele fornece uma estrutura básica para a criação de documentos que são interpretados pelos navegadores da web.
 
@@ -23,8 +23,3 @@ Alguns pontos chaves desta linguagem são:
 7. **Multimídia**: O HTML suporta a incorporação de diferentes tipos de mídia, como imagens, vídeos e áudio. Com as tags <img>, <video>, <audio> e outros, é possível incorporar e reproduzir conteúdo multimídia diretamente na página.
 
 8. **Responsividade**: O HTML pode ser combinado com o CSS (Cascading Style Sheets) e o JavaScript para criar páginas web responsivas, que se ajustam automaticamente a diferentes dispositivos e tamanhos de tela. Isso é essencial para criar uma experiência de usuário consistente em diferentes dispositivos, como desktops, tablets e smartphones.
-  
-  
-# Sintaxe Básica do HTML 
-  
- ASASAS
