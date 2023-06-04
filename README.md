@@ -7,8 +7,10 @@ A organização deste repositório é a seguir:
 
 ```
 ├── dash
-├── README.md
-└── streamlit
+├── html101
+├── sql101
+├── streamlit
+└── README.md
 ```
 
 ## Dash 
@@ -30,6 +32,10 @@ streamlit run app.py
 ```
 
 Você pode rodar os códigos do Streamlit criando virtualenvs ou seguindo estes [passos](https://github.com/streamlit/streamlit/wiki/Installing-in-a-virtual-environment).
+
+## HTML101
+
+Contém referências e uma rápida documentação sobre HTML. **Não é necessária para disciplian, está como conteúdo EXTRA!**
 
 # References
 
