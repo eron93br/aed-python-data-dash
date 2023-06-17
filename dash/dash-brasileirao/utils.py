@@ -1,0 +1,2 @@
+
+DATASET = 'data/gols.csv'
