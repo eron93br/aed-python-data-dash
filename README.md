@@ -67,6 +67,8 @@ Some useful references obtained from GitHub, Medium etc
 
 - [Boa Descrição de Conjuntos de Dados](https://github.com/infoslack/eda-wine-review/blob/main/eda-wine-reviews.ipynb)
 
+- [Artigo Medium - Matplotlib Tips to Instantly Improve Your Data Visualizations — According to “Storytelling with Data”](https://towardsdatascience.com/matplotlib-tips-to-instantly-improve-your-data-visualizations-according-to-storytelling-with-8e75601b38cb)
+
 **Dash** 
 
 - [Jupyter Dash Oficial Repo](https://github.com/plotly/jupyter-dash)
