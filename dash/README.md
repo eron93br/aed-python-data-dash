@@ -22,3 +22,9 @@ TBD
     └── your_data1.csv
 ├── app.py
 ```
+
+### Referências Dash Brasileirão
+
+- [Dashboards Sports Analytics](https://plotly.com/examples/sports-analytics/)
+- [FIFA World Cup Dashboard](https://github.com/ivan-abboud/fifa-worldcup-dashboard/tree/main)
+- [Basketball Dashboard](https://tracking-dashboard-app.herokuapp.com/dashboard)
