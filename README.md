@@ -71,9 +71,11 @@ Some useful references obtained from GitHub, Medium etc
 
 **Dash** 
 
+- [Data App Workspaces](https://plotly.com/dash/workspaces/)
 - [Jupyter Dash Oficial Repo](https://github.com/plotly/jupyter-dash)
 - [Estrutura de Aplicacao](https://dash.plotly.com/dash-enterprise/application-structure)
 - [Interactive Dashboards and Data Apps with Plotly and Dash](https://github.com/PacktPublishing/Interactive-Dashboards-and-Data-Apps-with-Plotly-and-Dash)
+- [Investment Portfolio widget - Dashboard](https://github.com/mbk-dev/okama-dash)
 
 **Streamlit**
 
