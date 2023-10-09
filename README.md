@@ -73,6 +73,8 @@ Some useful references obtained from GitHub, Medium etc
 
 - [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
 
+- [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/)
+
 **Dash** 
 
 - [Data App Workspaces](https://plotly.com/dash/workspaces/)
