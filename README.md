@@ -69,6 +69,10 @@ Some useful references obtained from GitHub, Medium etc
 
 - [Artigo Medium - Matplotlib Tips to Instantly Improve Your Data Visualizations — According to “Storytelling with Data”](https://towardsdatascience.com/matplotlib-tips-to-instantly-improve-your-data-visualizations-according-to-storytelling-with-8e75601b38cb)
 
+- [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
+
+- [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
+
 **Dash** 
 
 - [Data App Workspaces](https://plotly.com/dash/workspaces/)
